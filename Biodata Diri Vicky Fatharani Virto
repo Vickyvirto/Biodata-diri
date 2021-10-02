@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tugas Biodata</title>
+
+</head>
+
+<body>
+    <h2>BIODATA HTML</h2>
+    <table>
+        <tr>
+            <td>Nama</td>
+            <td>:</td>
+            <td>Vicky Fatharani Virto</td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>G.231.21.0105</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>:</td>
+            <td>Graha Wahid Cluster Sydney C12A</td>
+        </tr>
+        <tr>
+            <td>Kota Asal</td>
+            <td>:</td>
+            <td>Kota Semarang</td>
+        </tr>
+        <tr>
+            <td>Blog yang pernah dibuat</td>
+            <td>:</td>
+            <td><a href>https://vickyvirto27.blogspot.com/</a></td>
+        </tr>
+    </table>
+</body>
+
+</html
